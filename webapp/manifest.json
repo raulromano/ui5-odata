@@ -15,7 +15,7 @@
 		},
 		"dataSources": {
 			"OData.svc": {
-				"uri": "/ODATA_ORG/V2/(S(v45a0rikuuxg4geh5tv4irqy))/OData/OData.svc/",
+				"uri": "/ODATA_ORG/V2/(S(raulromanomendonca))/OData/OData.svc/",
 				"type": "OData",
 				"settings": {
 					"localUri": "localService/metadata.xml"
