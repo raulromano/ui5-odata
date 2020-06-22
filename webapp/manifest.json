@@ -72,7 +72,7 @@
 					"defaultOperationMode": "Server",
 					"defaultBindingMode": "OneWay",
 					"defaultCountMode": "Request",
-					"useBatch": false
+					"useBatch": true
 				},
 				"dataSource": "OData.svc",
 				"preload": true
